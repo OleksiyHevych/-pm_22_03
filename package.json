@@ -1,0 +1,26 @@
+{
+  "name": "laba1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LordTupoj/laba1.git"
+  },
+  "author": "Oleksiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LordTupoj/laba1/issues"
+  },
+  "homepage": "https://github.com/LordTupoj/laba1#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.10",
+    "del": "^7.0.0",
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^8.0.0",
+    "path": "^0.12.7"
+  }
+}
